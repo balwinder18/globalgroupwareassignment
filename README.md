@@ -1,4 +1,4 @@
-Website DEployes Link= https://globalgroupwareassignment.vercel.app/
+Website Deployed Link= https://globalgroupwareassignment.vercel.app/
 
 
 # Getting Started with Create React App
